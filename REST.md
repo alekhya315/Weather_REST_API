@@ -28,13 +28,13 @@ Input: Json which contains DATE, TMAX, TMIN
 Output: Json along with status code
 Status code: 201
 
-# PLOTTING THE FORECAST
+# Plotting the forecast
 
 Forecasted the plot by creating a dynamic web page which consists of a form that takes date as an input. 
 
 Output: Displays the plot for the next 6 days including the given date.
 
-# DOCKER
+# Docker
 
 Also, a docker image is built for this application in the following manner
 
